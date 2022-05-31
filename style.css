@@ -14,4 +14,13 @@ section {
 
 .layer {
   position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 140px;
+  height: 250vh;
+  background: #fff;
+}
+
+.layer.layer1 {
+  transform: translate(-50%, -50%) rotate(45deg);
 }
