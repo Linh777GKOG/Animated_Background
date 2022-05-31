@@ -31,3 +31,17 @@ section {
   background-size: 35px 35px;
   transform: translate(-50%, -50%) rotate(45deg);
 }
+
+.layer.layer2 {
+  background: #222
+    radial-gradient(#db0aff 9px, #000 9px, #000 13px, transparent 13px);
+  background-size: 35px 35px;
+  transform: translate(-50%, -38%) rotate(45deg);
+}
+
+.layer.layer3 {
+  background: #222
+    radial-gradient(#03a9f4 9px, #000 9px, #000 13px, transparent 13px);
+  background-size: 35px 35px;
+  transform: translate(-50%, -62%) rotate(45deg);
+}
